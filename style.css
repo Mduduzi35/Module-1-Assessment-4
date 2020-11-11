@@ -1,0 +1,18 @@
+h1{
+    background-color: beige;
+    text-align: center;
+}
+tr{
+    background-color: beige;
+}
+tr:hover{
+    background-color: darkturquoise;
+    color: azure;
+}
+table{
+    padding-left: 350px;
+    border-collapse: collapse;
+}
+#tab{
+    padding-left: 550px;
+}
